@@ -1,5 +1,6 @@
 package com.example.springaidemo.controller;
 
+import com.example.springaidemo.dto.bookDetails;
 import com.example.springaidemo.service.AIService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -22,5 +23,10 @@ public class AIController {
     @GetMapping("/books")
     public String getBooks(@RequestParam String category, @RequestParam String year){
         return aiService.getBooks(category, year);
+    }
+
+    @GetMapping("/booksInJSON")
+    public bookDetails getBooksInJSON(@RequestParam String category, @RequestParam String year){
+        return aiService.getBooksInJson(category, year);
     }
 }
