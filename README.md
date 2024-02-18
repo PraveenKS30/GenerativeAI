@@ -26,6 +26,8 @@ You can then access the web interface at [http://localhost:8501](^7^) and intera
 
 ## Demo
 
-Here is a YouTube video that shows the generative AI application in action: [https://www.youtube.com/playlist?list=PLO66QfE8gWT3L3SCxIhXxVnKY8153kZJB]
+Here is a YouTube video that shows the generative AI application in action:
+
+[https://www.youtube.com/playlist?list=PLO66QfE8gWT3L3SCxIhXxVnKY8153kZJB]
 
 You can also watch these YouTube videos to learn more about LlamaIndex and Spring AI.
