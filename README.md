@@ -8,7 +8,7 @@ LlamaIndex is a Python library that enables you to leverage pre-trained language
 
 To install this project, you need to have Python 3.8+, Java 11+, and Maven 3.6+ installed on your system. Then, follow these steps:
 
-- Clone this repository: `git clone https://github.com/your-username/generative-ai.git`
+- Clone this repository: `git clone https://github.com/PraveenKS30/GenerativeAI.git`
 
 ## Usage
 
