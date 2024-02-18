@@ -12,7 +12,7 @@ To install this project, you need to have Python 3.8+, Java 11+, and Maven 3.6+ 
 
 ## Usage
 
-To run this project, you need to have an OpenAI API key and a LlamaIndex API key. You can get them from [here](^5^) and [here](^6^), respectively. Then, set the following environment variables:
+To run this project, you need to have an OpenAI API key.Set the following environment variables:
 
 - `OPENAI_API_KEY`: Your OpenAI API key
 
