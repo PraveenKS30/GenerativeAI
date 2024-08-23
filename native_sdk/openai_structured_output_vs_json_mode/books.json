@@ -1,0 +1,12 @@
+[
+    {"title": "To Kill a Mockingbird", "author": "Harper Lee", "genre": "Fiction"},
+    {"title": "1984", "author": "George Orwell", "genre": "Dystopian"},
+    {"title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "genre": "Fiction"},
+    {"title": "Brave New World", "author": "Aldous Huxley", "genre": "Dystopian"},
+    {"title": "The Catcher in the Rye", "author": "J.D. Salinger", "genre": "Fiction"},
+    {"title": "Fahrenheit 451", "author": "Ray Bradbury", "genre": "Dystopian"},
+    {"title": "Moby-Dick", "author": "Herman Melville", "genre": "Adventure"},
+    {"title": "The Odyssey", "author": "Homer", "genre": "Epic"},
+    {"title": "Pride and Prejudice", "author": "Jane Austen", "genre": "Romance"},
+    {"title": "The Hobbit", "author": "J.R.R. Tolkien", "genre": "Fantasy"}
+]
